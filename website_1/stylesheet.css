@@ -1,0 +1,43 @@
+body{
+	background-color: cyan;
+	background-image: url(mat2.png);
+	background-size: cover;
+}
+
+h1{
+	font-family: zapfino;
+	color: white;
+}
+h2{
+	text-align:center;
+	color: white;
+}
+
+h4{
+	font-family: comic sans ms;
+	color:white;
+}
+
+p{
+	color:white;
+	text-align: center;
+}
+
+.first{
+	color: black;
+	text-decoration: bold;
+	text-align: left;
+	font-size: 20px;
+}
+
+.border{
+	text-align: center;
+	border: 2px dashed white;
+}
+
+.arabic{
+	font-family: me_quran;
+	color:white;
+	text-align: right;
+	font-size: 25px;
+}
